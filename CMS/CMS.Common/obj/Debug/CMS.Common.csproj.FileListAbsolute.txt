@@ -88,3 +88,8 @@ E:\Krunal\04-03-2020\CMS\CMS.Common\bin\Debug\CMS.Common.dll
 E:\Krunal\04-03-2020\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
 E:\Krunal\04-03-2020\CMS\CMS.Common\obj\Debug\CMS.Common.dll
 E:\Krunal\04-03-2020\CMS\CMS.Common\obj\Debug\CMS.Common.pdb
+F:\6-03-2020\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+F:\6-03-2020\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+F:\6-03-2020\CMS\CMS.Common\obj\Debug\CMS.Common.csprojResolveAssemblyReference.cache
+F:\6-03-2020\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+F:\6-03-2020\CMS\CMS.Common\obj\Debug\CMS.Common.pdb

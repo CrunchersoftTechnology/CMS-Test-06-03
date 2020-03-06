@@ -21,6 +21,7 @@ namespace CMS.Web.Controllers
 
         public AccountController()
         {
+           
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
@@ -58,8 +59,10 @@ namespace CMS.Web.Controllers
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
         {
+            var str = "hello";
+          
             ViewBag.ReturnUrl = returnUrl;
-            return View();
+            return View(str);
         }
         //
         // POST: /Account/Login
